@@ -27,8 +27,6 @@ main:
     # url: /cv/
     url: /files/cv.pdf
   
-  - title: "Experience"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/

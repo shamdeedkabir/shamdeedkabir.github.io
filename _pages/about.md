@@ -1,8 +1,11 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "👋 Hello, I'm Sham!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
+Website still in development!

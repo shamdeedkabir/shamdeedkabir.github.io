@@ -11,43 +11,54 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatics, University of Delaware, 2025 - present
+* B.A. in Computer Science with distinction (summa cum laude), 2025
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Student Researcher (August 2024 - December 2024)
+  * Artificial Intelligence Research Laboratory, HUN-REN Sztaki, Budapest, Hungary
+  * Goals Acheived: Development of machine learning based epigenetic clock based on CpG methylation using humman RRBS-seq data
+  * Supervisor: Dr. Csaba Kerepesi
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Research Assistant (June 2024 - August 2024)
+  * Hanson Lab, Colorado College, Colorado Springs, CO
+  * Goaals Acheieved: Developed a pipeline to identify centromere candidates in species having scaffold-level genome sequences
+  * Supervisor: Dr. Sara Hanson
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+* Data Research Assistant (June 2023 - December 2023)
+  * State of the Rockeis Project, Colorado Springs, CO
+  * Goaals Acheieved: Modeled regeneration patterns of Ponderosa Pines in the Waldo Canyon wildfire burn area
+  * Supervisor: Dr. Cynthia Hines
+
+Professional/Relevant experience
+======
+* Programming Analyst Intern (June 2023 - August 2023)
+  * Lexidyne, LLC, Colorado Springs, CO
+  * Goals Acheived: Developed a random-forest classifier model to predict lung cancer risk using ~80,000 client-provided patient data with ~82% accuracy rate; developed a cancer forecast model that projects future trends in diagnosis rate, disease stage, and demographic distribution up to 2050 using population data and the SEERStat Cancer Dataset; set up a MySQL server for seamless storage and integration of databases to existing simulations in Java
+  * Supervisor: Robert Malone
+
+* Technology Portfolio Manager (2023 - 2025)
+  * Colorado College Investment Club, Colorado College, Colorado Springs, CO
+  * Goaals Acheieved: Managed ~ $36,000 portfolio by performing stock transactions and reporting to the club advisor
+  * Supervisor: Dr. Pedro de Araujo
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->

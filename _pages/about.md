@@ -13,7 +13,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Bioinformatics, University of Delaware, 2025 - present
-* B.A. in Computer Science with distinction (summa cum laude), 2025
+* B.A. in Computer Science with distinction (summa cum laude), Colorado College, 2025
 
 Research experience
 ======

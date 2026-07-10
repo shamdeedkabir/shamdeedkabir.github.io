@@ -9,6 +9,10 @@ redirect_from:
 
 *** Website still in development!
 
+test_normal
+
+**TestBold**
+
 
 Education
 ======

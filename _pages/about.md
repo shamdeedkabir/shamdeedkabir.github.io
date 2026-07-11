@@ -16,6 +16,6 @@ My research involves statistical genetics and computational biology approaches t
 - **May 2026**: Received Spring Graduate Student Travel Award from the Dept. of Anamial and Food Sciences.
 - **March 2026**: Received a student scholarship to present my work at 2026 World Congress on Genetics Applied to Livestock Production ([WCGALP](https://wcgalp.com/)).
 - **December 2025**: My work titled "_Targeted deep sequencing of GOT1 and TNNI2 using Oxford Nanopore Technology identifies candidate causal variants associated with Wooden Breast_" accepted for the Proceedings of 13th World Congress on Genetics Applied to Livestock Production (WCGALP).
-- **October 2025**: Awarded "Reproducible Research Award" at the Delaware Bioinformatics Symposium.
+- **October 2025**: Awarded "Reproducible Research Award" at the [Delaware Bioinformatics Symposium](https://bioinformatics.udel.edu/bioinformatics-data-science-symposium/).
 - **July 2025**: Started my Ph.D. training as a Graduate Research Assistant under [Dr. Behnam Abasht](https://www.udel.edu/academics/colleges/canr/departments/animal-and-food-sciences/faculty-staff/behnam-abasht/).
-- **May 2025**: Received B.A. in Computer Science from Colorado College with Distinction and _summa cum laude_).
+- **May 2025**: Received B.A. in Computer Science from Colorado College with Distinction and _summa cum laude_.

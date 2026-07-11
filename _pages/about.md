@@ -11,7 +11,7 @@ I am currently a second-year Ph.D. student in Bioinformatics Data Science at the
 
 My research involves statistical genetics and computational biology approaches to address the genome, transcriptome, and metabolome to investigate fundamental genetics and diseases. My doctoral research is focused on spatio-temporally resolved genomic and epigenomic regulatory mechanisms of embryogenesis and myogenesis. Additionally, I am investigating the genetic basis of myopathies, growth, and feed efficiency traits in commercial broiler chickens.
 
-**News**
+##**News**
 - June 2026: Selected as a Ph.D. Research Fellow at the [USDA NRSP8: National Animal Genome Research Program](https://nimss.org/projects/view/mrp/outline/18969).
 - May 2026: Received Spring Graduate Student Travel Award from the Dept. of Anamial and Food Sciences.
 - March 2026: Received a student scholarship to present my work at 2026 World Congress on Genetics Applied to Livestock Production ([WCGALP](https://wcgalp.com/)).
